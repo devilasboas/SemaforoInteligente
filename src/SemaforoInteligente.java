@@ -88,7 +88,7 @@ public class SemaforoInteligente {
         final String VERMELHO = "vermelho";
         
         System.out.println("=== SEMÁFORO INTELIGENTE PARA PEDESTRES ===");
-        System.out.println("Cruzamento: Av. Principal com Rua das Flores\n");
+        System.out.println("Cruzamento: Av. Erasto Gaertner com Rua Holanda\n");
         
         System.out.print("Qual a cor atual do semáforo para carros? (verde/amarelo/vermelho): ");
         String corSemaforo = scanner.nextLine().toLowerCase().trim();
